@@ -10,6 +10,7 @@ ChitChat is a real-time chat application built with Flask and Socket.IO. It allo
 - **Room creation** with custom room IDs
 - **Password protection** for private rooms
 - **User presence tracking** showing how many users are online
+- **Enhanced emoji picker** with extensive emoji collection and scrollable interface
 - **Responsive design** that works on desktop and mobile devices
 - **System messages** for when users join or leave rooms
 - **Beautiful UI** with smooth animations and gradients
@@ -26,8 +27,8 @@ ChitChat is a real-time chat application built with Flask and Socket.IO. It allo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chitchat.git
-cd chitchat
+git clone https://github.com/Swarnavo-02/ChitChat.git
+cd ChitChat
 ```
 
 2. Install the required dependencies:
@@ -91,4 +92,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. 
+Contributions are welcome! Please feel free to submit a Pull Request.
